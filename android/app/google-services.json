@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "11418575133",
+    "firebase_url": "https://socail-media-app-9d27c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "socail-media-app-9d27c",
+    "storage_bucket": "socail-media-app-9d27c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11418575133:android:f8ea516c86ab7e16dd41f4",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADreMUO8ElYB3_pnyXMuOq1MbIudgJUds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
